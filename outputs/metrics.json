@@ -1,0 +1,8 @@
+{
+  "test_accuracy": 0.9916666746139526,
+  "test_loss": 0.02083701454102993,
+  "epochs_trained": 35,
+  "train_samples": 1293,
+  "val_samples": 144,
+  "test_samples": 360
+}
